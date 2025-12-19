@@ -1,0 +1,15 @@
+Steps to Create the Foundry Ai Chatbot using OpenAi-
+
+1)Create resource in Foundry.
+
+2)select GPT model gpt-4o in deployment option.
+
+3)Give the Model Instructions and context.
+
+4)set the temperature and others Parameters based on the result you need.
+
+5)You are set.
+
+6)Give the prompt related to the context and Instruction given it should give the response based on the Prompts.
+
+7)attached prompts given for the references.
